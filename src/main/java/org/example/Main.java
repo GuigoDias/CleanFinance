@@ -4,13 +4,5 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("teste");
-        System.out.println("Teste de Regra de bloqueio");
-        System.out.println("teste de pushing");
-      
-        System.out.println("ultimo teste");
-        System.out.println("This a pull request created by meeee");
-
-        //teste
     }
 }
