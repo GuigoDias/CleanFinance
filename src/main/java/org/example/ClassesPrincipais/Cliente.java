@@ -6,6 +6,14 @@ public class Cliente {
     private String email;
     private int telefone;
 
+    public Cliente(){}
+
+    public Cliente(String nome, int cpf, String email){
+        this.nome = nome;
+        this.cpf = cpf;
+        this.email = email;
+    }
+
     public String getNome() {
         return nome;
     }
