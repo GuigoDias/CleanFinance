@@ -16,5 +16,7 @@ public class Main {
         int cpf = teclado.nextInt();
         System.out.println("Digite o email do cliente:");
         String email = teclado.toString();
+
+
     }
 }
