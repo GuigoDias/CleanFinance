@@ -9,7 +9,7 @@ public class ConnectionFactory {
         try {
             System.out.println("feito com sucesso");
             return DriverManager
-                    .getConnection("jdbc:mysql://localhost:3306/conta?user=root&password=Bomber@4501");
+                    .getConnection("jdbc:mysql://localhost:3306/comextrello?user=root&password=Bomber@4501");
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
