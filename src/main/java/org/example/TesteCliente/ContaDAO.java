@@ -18,8 +18,8 @@ public class ContaDAO {
     public void criandoConta(Cliente cliente) {
         Cliente novoCliente = new Cliente(cliente.getNome(), cliente.getCpf(), cliente.getEmail());
         String transformarCpf = novoCliente.getCpf()
-                .replace("-","")
-                .replace(".","");
+                .replace("-", "")
+                .replace(".", "");
 
         String sql = "INSERT INTO conta(saldo,cliente_nome,cliente_cpf,cliente_email,conta_ativa) VALUES (?,?,?,?,?)";
 
@@ -39,7 +39,8 @@ public class ContaDAO {
             throw new RuntimeException(e);
         }
     }
-    public String ContaDAO(String teste){
-        return "teste";
+
+    public String toString(String teste) {
+        return super.toString();
     }
 }
