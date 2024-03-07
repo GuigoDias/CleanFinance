@@ -1,6 +1,6 @@
-package org.example.TesteCliente;
+package org.example.CleanFinance.TesteCliente;
 
-import org.example.ClassesPrincipais.Cliente;
+import org.example.CleanFinance.ClassesPrincipais.Cliente;
 
 import java.util.Scanner;
 

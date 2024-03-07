@@ -1,7 +1,6 @@
-package org.example.TesteCliente;
+package org.example.CleanFinance.TesteCliente;
 
-import org.example.ClassesPrincipais.Cliente;
-import org.example.MySql.ConnectionFactory;
+import org.example.CleanFinance.ClassesPrincipais.Cliente;
 
 import java.math.BigDecimal;
 import java.sql.Connection;

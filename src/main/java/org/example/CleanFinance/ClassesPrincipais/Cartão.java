@@ -1,4 +1,4 @@
-package org.example.ClassesPrincipais;
+package org.example.CleanFinance.ClassesPrincipais;
 
 public class Cartão {
     private int numero;

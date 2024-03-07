@@ -1,12 +1,9 @@
-package org.example.TesteCliente;
+package org.example.CleanFinance.TesteCliente;
 
-import org.example.ClassesPrincipais.Cliente;
-import org.example.MySql.ConnectionFactory;
+import org.example.CleanFinance.ClassesPrincipais.Cliente;
+import org.example.CleanFinance.MySql.ConnectionFactory;
 
-import java.math.BigDecimal;
 import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
 
 public class ContaService {
     private ConnectionFactory connection;

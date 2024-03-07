@@ -1,4 +1,4 @@
-package org.example.MySql;
+package org.example.CleanFinance.MySql;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
