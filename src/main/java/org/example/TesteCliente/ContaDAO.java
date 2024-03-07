@@ -39,8 +39,4 @@ public class ContaDAO {
             throw new RuntimeException(e);
         }
     }
-
-    public String toString(String teste) {
-        return super.toString();
-    }
 }
