@@ -39,4 +39,7 @@ public class ContaDAO {
             throw new RuntimeException(e);
         }
     }
+    public String ContaDAO(String teste){
+        return "teste";
+    }
 }
