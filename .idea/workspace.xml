@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8315a90-2f64-4b42-b2d7-749861ccd8c3" name="Changes" comment="Criação do ControleDeCadastro.java, correção do ContaDAO.java e ContaService.java e Teste pronto na Main.java">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GuigoDias&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="eb2081a9-fe3e-4bf0-89d5-e2f9a9ff4d52" />
+        <option name="url" value="https://github.com/GuigoDias/testDinamic.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2d2kYOuq24wXZ1w6H3htb1eBqOb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CleanFinanceApplication.executor": "Run",
+    "Application.ControleDeCadastro.executor": "Debug",
+    "Application.Main.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Guilherme",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guilh/Downloads/api"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CleanFinanceApplication">
+    <configuration name="CleanFinanceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.CleanFinance.CleanFinanceApplication" />
+      <module name="CleanFinance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.CleanFinance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControleDeCadastro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TesteCliente.ControleDeCadastro" />
+      <module name="testDinamic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.TesteCliente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="testDinamic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CleanFinanceApplication" />
+        <item itemvalue="Application.ControleDeCadastro" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8315a90-2f64-4b42-b2d7-749861ccd8c3" name="Changes" comment="" />
+      <created>1709213607700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709213607700</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Branchs separadas">
+      <option name="closed" value="true" />
+      <created>1709213771583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709213771583</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Teste de Regra de bloqueio">
+      <option name="closed" value="true" />
+      <created>1709214655136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709214655136</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Teste de pushing">
+      <option name="closed" value="true" />
+      <created>1709215281373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709215281373</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Teste de pushing">
+      <option name="closed" value="true" />
+      <created>1709216221490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709216221490</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Teste de pushing">
+      <option name="closed" value="true" />
+      <created>1709216257906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709216257906</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Teste de pushing">
+      <option name="closed" value="true" />
+      <created>1709216349340</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709216349340</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Limpeza da main">
+      <option name="closed" value="true" />
+      <created>1709218268825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709218268825</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Criação do ControleDeCadastro.java, correção do ContaDAO.java e ContaService.java e Teste pronto na Main.java">
+      <option name="closed" value="true" />
+      <created>1709424136640</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709424136640</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Branchs separadas" />
+    <MESSAGE value="Teste de Regra de bloqueio" />
+    <MESSAGE value="Teste de pushing" />
+    <MESSAGE value="Limpeza da main" />
+    <MESSAGE value="Criação do ControleDeCadastro.java, correção do ContaDAO.java e ContaService.java e Teste pronto na Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação do ControleDeCadastro.java, correção do ContaDAO.java e ContaService.java e Teste pronto na Main.java" />
+  </component>
+</project>
